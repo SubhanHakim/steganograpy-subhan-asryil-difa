@@ -57,7 +57,6 @@ label {
    height: 100vh;
    padding: 10px 50px;
    background-color: #3AD29F;
-   background-image: url('../images/wave-encrypt.png');
    background-repeat: no-repeat;
    background-position: bottom;
    background-size: 100%;
@@ -94,7 +93,6 @@ label {
    height: 90vh;
    padding: 10px 50px;
    background-color: #FFD600;
-   background-image: url('../images/wave-encrypt.png');
    background-repeat: no-repeat;
    background-position: bottom;
    background-size: 100%;
